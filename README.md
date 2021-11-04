@@ -1,2 +1,2 @@
 # Icterid-template
-QeeqBox Icterid Webapp Template => [Live](https://qeeqbox.github.io/icterid-template/template.html)
+QeeqBox Icterid Template => [Live](https://qeeqbox.github.io/icterid-template/template.html)
